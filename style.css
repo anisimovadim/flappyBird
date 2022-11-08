@@ -4,4 +4,9 @@
 }
 body{
     overflow: hidden;
+    width: 100%;
+}
+.content{
+    width: 30%;
+    margin:auto ;
 }
